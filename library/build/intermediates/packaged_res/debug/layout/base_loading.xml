@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ViewStub
+        android:id="@+id/bl_stateview_bgVs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/bl_stateview_iv"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@drawable/icon_progress_yellow"
+        android:layout_centerInParent="true" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="root_id" type="id"/>
+    <string name="text_empty">No data!</string>
+    <string name="text_retry">Something went wrong!\n\nTap to retry</string>
+    <declare-styleable name="StateView">
+        <attr format="reference" name="emptyResource"/>
+        <attr format="reference" name="retryResource"/>
+        <attr format="reference" name="loadingResource"/>
+    </declare-styleable>
+</resources>
