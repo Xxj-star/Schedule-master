@@ -28,7 +28,7 @@ implementation 'com.github.xuxinjiang:NetworkCue:1.0'
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/NetworkCue-/blob/master/gif/zjl.gif)
+![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/dd.gif)
 
 # 联系方式
 
