@@ -28,7 +28,7 @@ dependencies {
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/untitled2.gif)
+![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/tp2.png)
 
 # 联系方式
 
@@ -36,7 +36,7 @@ dependencies {
 
 ### 欢迎加入QQ交流群（Q群574181465）
 
-![image text](https://github.com/xuxinjiang/NetworkCue-/blob/master/gif/qqqun.png)
+![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/xxjqq.png)
 
 
 
