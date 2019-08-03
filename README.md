@@ -28,7 +28,7 @@ dependencies {
 ```
 # 演示（请star支持）
 
-![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/dd.gif)
+![image text](https://github.com/xuxinjiang/Schedule-master/blob/master/gif/untitled2.gif)
 
 # 联系方式
 
